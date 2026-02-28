@@ -1,0 +1,1001 @@
+customer_id,created_at,city,age,marketing_opt_in
+1,2023-11-28 23:21:56,Dallas,48,True
+2,2024-03-16 20:19:26,Dallas,60,False
+3,2023-12-31 20:32:09,Phoenix,32,True
+4,2023-03-13 18:58:20,Houston,48,True
+5,2023-10-30 01:04:15,San Antonio,49,False
+6,2023-01-09 14:43:32,Los Angeles,67,False
+7,2025-03-15 14:51:52,San Diego,21,True
+8,2023-07-08 12:34:35,San Diego,26,False
+9,2025-05-18 06:14:42,San Jose,38,False
+10,2025-02-23 03:29:38,San Antonio,53,False
+11,2025-01-07 09:08:44,San Diego,34,True
+12,2024-03-06 18:54:59,Dallas,49,True
+13,2023-05-01 08:47:19,Phoenix,33,False
+14,2025-04-19 02:20:04,Los Angeles,26,True
+15,2023-08-26 08:59:35,Houston,22,False
+16,2025-04-22 22:00:34,San Diego,44,True
+17,2024-10-14 16:05:08,San Antonio,67,True
+18,2024-08-13 21:37:57,San Diego,18,False
+19,2024-08-28 19:45:21,San Antonio,52,True
+20,2024-02-28 23:45:57,San Antonio,49,True
+21,2024-09-20 02:01:04,Chicago,47,True
+22,2025-04-09 17:34:20,New York,43,True
+23,2024-10-27 19:50:32,Chicago,47,True
+24,2024-08-11 22:00:59,Philadelphia,31,False
+25,2024-08-11 22:50:59,Phoenix,66,False
+26,2023-05-08 05:41:08,San Diego,19,True
+27,2024-06-27 15:28:02,Houston,59,True
+28,2023-03-04 12:55:55,New York,33,True
+29,2023-08-25 17:13:32,Houston,26,False
+30,2025-05-26 02:18:35,Houston,47,False
+31,2023-09-18 15:37:57,San Jose,56,True
+32,2023-09-12 09:37:54,Phoenix,24,True
+33,2024-08-06 00:27:27,San Antonio,63,True
+34,2024-01-13 06:04:52,Los Angeles,62,False
+35,2023-07-08 01:15:35,San Jose,68,True
+36,2024-10-27 11:05:23,Philadelphia,22,False
+37,2024-10-14 12:55:29,San Diego,24,False
+38,2024-12-15 04:19:30,Chicago,45,True
+39,2024-02-24 13:24:05,San Jose,69,False
+40,2024-02-21 22:30:39,Philadelphia,33,True
+41,2024-12-01 07:07:00,Houston,66,False
+42,2024-08-11 17:44:43,Philadelphia,19,False
+43,2023-10-10 11:28:52,San Diego,31,False
+44,2024-06-12 16:45:06,Phoenix,56,False
+45,2025-03-13 13:15:35,Houston,23,True
+46,2025-01-28 23:30:08,Dallas,66,True
+47,2025-02-01 11:08:44,San Diego,68,True
+48,2023-12-11 05:42:45,San Antonio,62,True
+49,2024-07-27 06:04:46,San Diego,53,False
+50,2025-05-04 23:58:10,Philadelphia,40,False
+51,2024-01-26 13:00:30,Houston,25,True
+52,2025-04-12 10:27:23,Chicago,30,True
+53,2024-03-05 12:39:11,San Jose,66,False
+54,2023-10-29 13:13:40,Phoenix,32,False
+55,2023-01-22 23:29:21,Dallas,26,False
+56,2023-03-26 16:52:38,Dallas,36,True
+57,2025-02-01 13:17:03,Los Angeles,18,False
+58,2024-11-15 05:52:01,Philadelphia,29,True
+59,2025-01-12 03:02:06,Los Angeles,70,True
+60,2023-04-26 01:59:00,San Jose,58,True
+61,2025-05-24 08:10:51,Phoenix,23,True
+62,2024-10-08 12:05:31,San Jose,56,True
+63,2024-08-13 21:31:14,San Diego,46,False
+64,2024-10-28 03:56:06,Phoenix,54,True
+65,2023-06-04 03:41:44,Houston,58,True
+66,2023-05-07 02:53:17,Chicago,33,True
+67,2023-09-01 03:57:32,New York,44,False
+68,2024-12-30 23:36:25,Phoenix,20,True
+69,2024-03-15 04:30:17,San Diego,22,True
+70,2023-11-04 07:14:05,San Antonio,25,True
+71,2024-02-17 15:29:46,Chicago,22,True
+72,2024-04-22 20:35:58,San Jose,65,False
+73,2024-12-29 02:19:36,Phoenix,62,False
+74,2025-02-16 10:57:18,Dallas,49,False
+75,2023-03-03 22:07:03,San Antonio,65,False
+76,2023-02-10 04:18:47,Los Angeles,32,True
+77,2024-02-23 16:05:57,San Jose,20,True
+78,2024-11-17 23:30:25,Phoenix,29,False
+79,2025-02-02 20:51:59,Los Angeles,48,False
+80,2024-05-13 17:55:09,Los Angeles,28,False
+81,2025-02-08 16:25:26,Phoenix,60,False
+82,2025-05-04 13:05:17,New York,47,True
+83,2024-05-17 04:31:13,Los Angeles,67,False
+84,2023-01-02 18:54:53,Dallas,47,False
+85,2025-03-16 08:49:17,Philadelphia,57,False
+86,2023-03-22 04:13:35,Houston,35,True
+87,2024-11-11 14:09:06,San Diego,25,True
+88,2024-01-07 17:39:21,Chicago,37,True
+89,2023-05-25 19:05:27,Houston,25,False
+90,2023-08-28 04:27:34,San Diego,63,False
+91,2024-02-29 18:01:08,San Antonio,48,False
+92,2025-05-06 08:39:06,Chicago,42,True
+93,2025-02-28 12:35:37,Chicago,22,False
+94,2024-10-06 14:10:29,Philadelphia,68,False
+95,2024-03-15 09:00:05,Phoenix,55,False
+96,2024-11-24 16:29:36,Dallas,48,False
+97,2025-04-24 04:32:28,San Antonio,47,False
+98,2024-01-06 23:18:57,San Jose,42,True
+99,2024-09-30 02:48:20,New York,38,False
+100,2024-08-15 05:19:38,San Antonio,60,True
+101,2023-02-27 12:11:28,Chicago,50,False
+102,2024-11-14 23:48:19,Los Angeles,51,False
+103,2023-08-12 22:30:12,San Antonio,59,True
+104,2024-02-16 16:45:55,Philadelphia,57,False
+105,2024-05-25 09:48:46,Dallas,42,False
+106,2025-01-28 00:00:02,Dallas,20,True
+107,2024-03-22 10:15:56,Houston,65,True
+108,2023-06-02 22:13:32,Los Angeles,46,True
+109,2023-02-14 23:13:54,New York,38,True
+110,2024-08-05 07:05:19,San Antonio,27,True
+111,2025-05-29 03:19:38,Chicago,28,True
+112,2024-08-17 06:17:06,San Jose,61,True
+113,2023-08-11 07:48:55,Houston,47,False
+114,2023-01-15 14:21:41,San Diego,36,True
+115,2024-06-20 19:37:12,San Jose,37,False
+116,2024-12-10 16:04:24,Phoenix,30,False
+117,2023-06-15 16:19:19,Houston,42,False
+118,2024-04-03 15:00:01,New York,60,False
+119,2025-05-29 03:21:46,New York,56,False
+120,2024-03-20 14:05:28,Houston,56,False
+121,2023-10-23 08:38:03,San Jose,34,True
+122,2023-03-03 05:46:48,Phoenix,68,False
+123,2024-07-20 19:00:45,Chicago,23,False
+124,2024-10-07 11:04:41,Chicago,30,True
+125,2024-07-22 08:09:26,Dallas,50,False
+126,2024-02-04 04:32:20,San Diego,69,False
+127,2024-06-10 04:13:11,Los Angeles,47,True
+128,2023-12-17 11:31:31,San Antonio,69,False
+129,2024-09-04 22:48:21,New York,34,True
+130,2024-02-12 06:05:08,San Jose,42,False
+131,2023-12-30 05:30:44,San Diego,19,False
+132,2023-12-10 21:10:02,Los Angeles,58,False
+133,2024-04-14 10:27:58,San Antonio,25,True
+134,2023-02-27 19:22:07,Phoenix,49,True
+135,2025-04-15 01:11:24,Chicago,42,False
+136,2025-04-19 03:50:09,San Antonio,55,True
+137,2023-06-03 19:47:38,San Diego,57,False
+138,2024-03-10 13:28:06,New York,62,False
+139,2024-11-21 19:27:47,Houston,41,True
+140,2024-07-24 15:14:23,Dallas,59,False
+141,2024-03-04 13:36:20,Houston,25,False
+142,2023-11-26 11:52:40,San Jose,19,True
+143,2024-01-14 08:54:23,Chicago,68,True
+144,2025-05-10 22:21:50,Houston,55,True
+145,2023-12-28 22:49:13,Philadelphia,67,True
+146,2023-01-05 09:43:01,Phoenix,27,True
+147,2023-09-29 01:43:27,Los Angeles,60,True
+148,2024-07-10 12:14:24,Houston,55,False
+149,2024-02-17 05:37:04,New York,26,False
+150,2023-04-09 17:36:55,San Diego,46,False
+151,2023-06-19 09:49:41,San Diego,50,True
+152,2023-03-09 08:45:56,Dallas,37,False
+153,2023-02-18 09:22:48,New York,48,False
+154,2023-06-17 17:06:31,San Diego,63,False
+155,2023-05-06 12:05:14,Philadelphia,56,True
+156,2024-03-03 05:20:22,San Jose,58,False
+157,2025-04-04 04:35:33,Phoenix,47,False
+158,2023-06-27 17:39:56,Dallas,64,True
+159,2023-12-21 22:51:28,San Antonio,39,False
+160,2023-05-28 17:03:25,Philadelphia,45,False
+161,2024-08-04 10:57:12,Chicago,61,False
+162,2023-05-13 14:36:50,Los Angeles,45,True
+163,2024-08-01 21:16:54,Chicago,53,True
+164,2025-05-22 09:27:32,Dallas,39,True
+165,2024-10-19 00:13:43,New York,36,False
+166,2025-02-27 05:42:39,Houston,27,False
+167,2023-06-18 02:40:25,Philadelphia,53,False
+168,2024-03-08 17:46:32,San Jose,32,False
+169,2025-05-14 20:45:45,New York,56,False
+170,2024-02-29 12:15:30,Phoenix,39,False
+171,2023-08-11 12:48:09,San Jose,60,False
+172,2023-02-17 14:58:46,Los Angeles,65,True
+173,2024-12-05 17:08:27,Philadelphia,28,False
+174,2024-05-18 21:52:14,San Jose,56,True
+175,2023-08-30 16:26:21,Chicago,66,True
+176,2024-02-27 16:43:45,San Diego,60,False
+177,2024-11-17 16:36:06,San Antonio,35,True
+178,2023-06-26 19:25:27,Philadelphia,45,True
+179,2025-01-25 22:59:02,Dallas,60,False
+180,2024-09-06 00:29:14,San Jose,21,True
+181,2023-11-25 03:22:24,Chicago,66,False
+182,2023-07-06 09:20:26,New York,49,False
+183,2024-08-13 15:09:39,Dallas,63,True
+184,2024-07-04 04:18:33,Los Angeles,43,True
+185,2024-12-15 04:52:50,Los Angeles,38,False
+186,2024-10-10 20:45:34,Phoenix,25,False
+187,2024-05-19 12:14:07,Chicago,69,False
+188,2024-07-16 02:50:46,Los Angeles,45,True
+189,2024-09-14 01:51:04,Dallas,23,False
+190,2024-06-11 09:58:21,Houston,39,True
+191,2023-06-27 03:13:16,Dallas,50,True
+192,2024-06-26 17:39:14,Philadelphia,64,True
+193,2023-08-16 11:50:10,Phoenix,30,True
+194,2023-04-28 01:22:25,Chicago,67,False
+195,2025-05-25 17:34:55,San Jose,46,False
+196,2024-05-06 02:30:44,Chicago,46,True
+197,2024-04-15 09:57:50,Phoenix,55,True
+198,2023-04-26 06:01:41,Phoenix,47,False
+199,2024-07-26 19:32:02,Phoenix,22,True
+200,2025-02-26 16:51:30,San Antonio,47,True
+201,2023-10-20 10:04:33,Philadelphia,56,False
+202,2023-04-07 02:49:07,San Diego,24,False
+203,2023-05-12 00:01:04,Dallas,59,True
+204,2024-11-11 00:48:40,San Diego,51,True
+205,2024-03-15 11:02:13,San Antonio,44,False
+206,2023-03-23 08:19:40,Philadelphia,22,False
+207,2024-08-23 12:09:29,Phoenix,34,True
+208,2023-08-08 16:49:55,Philadelphia,37,False
+209,2023-05-12 14:33:13,Phoenix,53,False
+210,2024-05-25 06:29:36,Chicago,60,True
+211,2024-10-19 17:44:00,Dallas,41,True
+212,2023-10-08 00:41:19,Houston,39,False
+213,2023-08-02 16:48:29,Chicago,22,False
+214,2023-06-07 02:48:03,Dallas,67,True
+215,2023-07-23 13:51:44,San Jose,42,True
+216,2023-09-15 03:44:50,San Diego,20,False
+217,2024-01-04 23:46:03,San Diego,57,False
+218,2024-11-28 09:14:51,Houston,52,True
+219,2024-12-29 14:10:08,Houston,41,False
+220,2024-03-13 17:12:41,San Antonio,50,False
+221,2023-11-07 05:16:15,San Jose,26,False
+222,2025-01-16 13:43:05,Philadelphia,53,True
+223,2025-03-12 10:29:45,Los Angeles,36,True
+224,2024-02-28 18:23:48,San Diego,50,True
+225,2023-05-23 11:19:46,Houston,70,False
+226,2023-02-11 10:20:12,San Antonio,21,False
+227,2024-01-02 06:26:37,San Antonio,23,False
+228,2024-05-10 01:25:59,Los Angeles,63,False
+229,2023-08-02 18:05:04,New York,36,False
+230,2023-08-04 14:33:59,San Diego,46,True
+231,2023-01-30 12:30:58,Phoenix,31,True
+232,2025-03-30 20:44:52,San Antonio,25,False
+233,2023-07-09 06:50:08,New York,33,False
+234,2024-12-11 02:25:51,Los Angeles,25,False
+235,2023-01-26 12:45:15,Dallas,54,True
+236,2024-03-28 11:24:24,San Antonio,18,False
+237,2024-10-09 02:45:56,Chicago,60,True
+238,2024-07-14 04:16:57,Los Angeles,51,True
+239,2024-12-31 07:54:22,New York,58,False
+240,2024-01-30 00:46:01,New York,40,True
+241,2023-06-11 00:52:08,San Jose,65,False
+242,2024-07-01 06:39:37,Dallas,39,True
+243,2024-12-22 18:23:49,San Diego,58,True
+244,2023-04-09 00:33:30,San Diego,20,False
+245,2023-11-06 20:46:27,New York,38,False
+246,2025-04-23 13:39:06,San Diego,34,True
+247,2023-10-24 20:51:08,Phoenix,40,True
+248,2024-05-30 15:02:57,Phoenix,25,False
+249,2024-09-13 09:53:33,San Diego,42,False
+250,2025-02-09 19:47:49,San Diego,41,False
+251,2024-10-21 10:29:40,Los Angeles,45,True
+252,2024-05-13 23:37:48,Los Angeles,23,False
+253,2024-04-21 02:59:37,San Diego,56,False
+254,2024-11-20 14:06:14,Philadelphia,46,True
+255,2024-07-01 16:21:49,San Jose,45,False
+256,2023-03-31 02:27:49,Los Angeles,60,False
+257,2023-09-06 12:44:14,New York,27,False
+258,2023-04-15 10:38:29,Houston,67,False
+259,2023-02-20 07:24:44,San Jose,27,False
+260,2024-07-31 21:39:50,San Diego,66,True
+261,2025-04-02 11:41:42,Philadelphia,43,False
+262,2024-01-23 18:11:48,Los Angeles,19,True
+263,2024-08-24 03:56:06,Dallas,25,False
+264,2024-11-24 06:16:03,Houston,57,False
+265,2025-02-02 01:16:14,Houston,25,True
+266,2024-12-03 05:22:22,Chicago,63,False
+267,2024-05-11 11:05:44,Philadelphia,63,True
+268,2024-03-27 01:29:25,Phoenix,28,True
+269,2025-03-01 07:47:20,Houston,25,True
+270,2024-01-03 18:09:52,San Diego,19,False
+271,2024-07-27 02:00:18,San Diego,69,True
+272,2023-05-14 22:20:46,Los Angeles,37,False
+273,2025-01-13 13:55:43,Dallas,44,False
+274,2023-04-25 13:37:33,Chicago,38,True
+275,2025-03-14 16:34:45,Philadelphia,26,True
+276,2023-07-20 10:41:50,San Antonio,50,True
+277,2025-03-15 20:14:51,Chicago,37,True
+278,2023-12-17 06:08:29,Philadelphia,51,False
+279,2024-01-25 07:14:35,Houston,58,False
+280,2024-04-15 10:07:10,San Jose,52,True
+281,2023-09-19 23:12:07,San Jose,55,True
+282,2024-06-08 11:22:13,San Jose,20,True
+283,2024-02-16 03:05:14,Houston,67,False
+284,2023-02-17 01:08:24,San Diego,58,False
+285,2024-04-14 06:53:05,San Diego,33,False
+286,2023-04-24 08:37:53,New York,28,False
+287,2024-12-22 11:39:31,Houston,39,True
+288,2024-05-11 00:58:40,Philadelphia,43,True
+289,2025-03-10 23:51:03,Dallas,24,False
+290,2023-07-10 07:56:52,Phoenix,46,True
+291,2023-03-20 14:42:07,Phoenix,42,False
+292,2023-09-06 02:02:05,Philadelphia,54,False
+293,2023-09-05 12:42:56,San Diego,50,False
+294,2024-04-24 07:13:22,San Diego,19,True
+295,2025-02-24 04:20:07,San Diego,33,True
+296,2023-03-17 14:06:24,New York,36,False
+297,2025-01-01 00:44:58,Phoenix,52,True
+298,2024-10-31 10:09:06,Chicago,34,False
+299,2024-07-22 11:08:00,New York,43,True
+300,2023-10-30 09:16:32,Philadelphia,53,False
+301,2025-02-22 08:00:31,San Diego,66,False
+302,2023-07-04 13:35:45,Chicago,24,False
+303,2024-06-10 18:00:58,Dallas,41,True
+304,2025-03-01 21:27:47,San Antonio,50,True
+305,2023-08-01 21:05:10,Philadelphia,69,False
+306,2023-08-20 08:54:37,San Jose,50,True
+307,2024-05-09 19:39:37,Chicago,43,False
+308,2025-02-27 02:04:24,Dallas,52,False
+309,2024-04-10 17:00:08,San Diego,70,True
+310,2023-06-20 06:21:18,San Antonio,55,False
+311,2023-02-11 09:28:40,San Jose,48,False
+312,2023-12-20 11:25:34,New York,55,False
+313,2024-08-13 14:31:23,Chicago,70,True
+314,2023-06-20 17:12:07,Houston,19,False
+315,2023-08-24 05:45:59,San Antonio,62,True
+316,2025-01-02 14:43:33,New York,63,True
+317,2025-05-21 07:22:28,Philadelphia,60,False
+318,2024-05-02 09:32:40,Chicago,47,False
+319,2024-02-15 16:08:11,San Jose,48,True
+320,2024-03-09 10:06:44,Dallas,37,True
+321,2024-04-07 07:52:30,Phoenix,63,True
+322,2025-01-29 15:21:22,Philadelphia,48,False
+323,2024-02-29 19:14:09,Phoenix,25,False
+324,2024-09-04 21:14:09,Philadelphia,67,True
+325,2024-03-22 19:38:10,Los Angeles,40,False
+326,2025-01-14 05:22:10,Houston,30,False
+327,2024-02-26 22:46:56,Chicago,24,True
+328,2025-04-04 22:39:42,Houston,58,True
+329,2024-10-04 00:59:30,Philadelphia,63,False
+330,2023-08-02 13:08:33,New York,53,True
+331,2025-01-08 23:22:05,San Diego,59,True
+332,2024-03-22 05:16:16,Philadelphia,36,True
+333,2023-05-19 23:20:14,San Jose,32,True
+334,2023-09-29 22:53:16,San Antonio,29,True
+335,2024-09-08 17:01:49,San Diego,29,False
+336,2023-01-15 09:30:18,Phoenix,54,True
+337,2024-06-04 11:16:31,Phoenix,47,False
+338,2023-07-28 11:20:11,Dallas,47,False
+339,2023-06-24 23:46:32,Philadelphia,28,False
+340,2023-10-17 06:00:16,New York,65,False
+341,2023-10-28 01:34:29,Chicago,57,False
+342,2025-03-11 11:03:19,Philadelphia,23,False
+343,2023-10-15 01:08:32,Chicago,48,False
+344,2023-01-11 14:38:43,Phoenix,42,True
+345,2024-02-19 18:16:11,Philadelphia,37,True
+346,2024-07-12 13:04:24,Houston,21,True
+347,2023-09-06 02:40:29,San Antonio,61,False
+348,2024-04-03 07:47:56,Philadelphia,57,True
+349,2023-07-27 11:48:18,San Diego,27,False
+350,2024-08-03 09:44:37,San Antonio,62,False
+351,2023-12-06 06:58:31,Houston,61,True
+352,2025-03-31 11:43:16,Philadelphia,22,True
+353,2025-04-30 17:50:37,Dallas,30,True
+354,2025-03-19 07:44:19,San Diego,25,True
+355,2025-01-29 08:49:39,Los Angeles,50,False
+356,2024-12-05 09:10:53,Chicago,50,False
+357,2023-03-31 16:34:59,Dallas,47,False
+358,2024-09-07 02:02:16,Phoenix,70,True
+359,2023-04-24 10:44:17,New York,45,False
+360,2025-04-20 16:02:15,New York,22,False
+361,2024-09-27 03:39:51,Chicago,67,True
+362,2024-10-15 00:13:44,Philadelphia,42,False
+363,2024-08-09 10:05:02,San Antonio,23,True
+364,2024-06-24 05:48:04,Los Angeles,29,False
+365,2023-12-12 22:29:34,New York,66,True
+366,2024-12-20 06:02:11,Dallas,45,False
+367,2024-01-20 11:55:03,San Diego,40,True
+368,2023-06-25 07:09:11,New York,69,False
+369,2023-01-25 07:19:03,Houston,31,True
+370,2023-02-22 03:48:51,San Diego,56,True
+371,2023-03-10 17:15:53,San Antonio,46,True
+372,2023-03-29 16:23:10,Chicago,50,False
+373,2024-05-10 09:35:29,San Jose,56,False
+374,2023-08-11 13:08:09,Dallas,32,False
+375,2023-04-05 16:39:55,Dallas,55,True
+376,2024-10-25 15:11:31,Dallas,49,True
+377,2024-08-15 02:28:28,Dallas,38,False
+378,2024-04-10 20:39:12,San Antonio,29,False
+379,2023-12-17 01:27:13,Phoenix,63,True
+380,2023-03-31 12:22:33,Dallas,44,False
+381,2023-07-28 07:20:24,San Antonio,33,False
+382,2023-05-03 19:57:33,San Diego,41,True
+383,2023-10-23 21:40:10,New York,35,False
+384,2023-03-03 10:26:22,Los Angeles,30,True
+385,2024-06-01 05:48:33,Phoenix,18,True
+386,2023-07-02 05:51:53,San Diego,33,True
+387,2024-01-07 18:54:17,Dallas,38,False
+388,2025-04-08 23:55:07,Philadelphia,37,False
+389,2025-02-11 11:50:28,San Diego,24,False
+390,2024-05-12 11:09:43,Houston,41,False
+391,2025-05-23 20:26:30,Houston,65,True
+392,2025-05-09 12:57:00,San Jose,55,False
+393,2023-11-01 18:33:35,Philadelphia,32,False
+394,2024-01-17 17:28:44,San Diego,53,False
+395,2025-01-29 01:06:53,San Diego,47,True
+396,2024-07-01 02:04:45,Chicago,26,False
+397,2025-04-22 04:19:36,New York,51,True
+398,2023-04-26 11:14:18,New York,66,True
+399,2023-12-26 12:27:44,Los Angeles,63,True
+400,2025-02-24 15:05:23,San Diego,41,True
+401,2025-01-20 15:09:23,San Diego,19,True
+402,2024-09-30 23:48:40,New York,19,False
+403,2024-03-21 08:31:24,New York,50,False
+404,2023-10-06 11:33:08,Los Angeles,24,True
+405,2025-03-28 19:42:06,Phoenix,70,False
+406,2024-09-08 13:22:16,Los Angeles,41,False
+407,2024-01-13 19:26:50,Houston,37,True
+408,2023-02-19 05:17:02,Los Angeles,43,False
+409,2025-01-09 10:45:23,New York,58,True
+410,2023-05-09 10:45:43,San Diego,45,False
+411,2023-05-29 03:20:48,Dallas,20,True
+412,2025-05-30 11:14:40,San Diego,35,True
+413,2024-03-11 13:03:48,Dallas,54,True
+414,2024-05-03 12:50:21,New York,31,True
+415,2024-09-10 17:33:06,Los Angeles,37,True
+416,2025-05-30 07:57:18,San Antonio,61,False
+417,2023-08-06 09:44:10,Los Angeles,50,False
+418,2024-11-09 23:49:52,Houston,22,False
+419,2024-09-08 06:09:41,Philadelphia,19,False
+420,2024-11-30 21:43:43,San Diego,32,False
+421,2024-08-06 04:55:58,San Antonio,29,False
+422,2024-04-03 20:32:42,Houston,63,True
+423,2023-08-28 13:46:27,San Antonio,63,True
+424,2024-05-06 22:37:12,Philadelphia,24,True
+425,2024-04-23 21:02:37,San Diego,41,False
+426,2023-05-16 14:40:36,Chicago,45,False
+427,2025-03-07 01:10:46,San Antonio,24,True
+428,2025-05-10 22:48:43,Los Angeles,56,False
+429,2023-01-20 04:05:29,Phoenix,44,False
+430,2025-05-19 05:02:03,Houston,54,True
+431,2023-09-21 07:28:59,Chicago,35,False
+432,2023-08-15 16:50:40,Los Angeles,28,False
+433,2024-04-10 15:34:26,San Diego,68,True
+434,2024-01-19 01:32:38,San Diego,56,True
+435,2023-07-30 11:24:56,Phoenix,18,False
+436,2024-08-13 03:19:26,Philadelphia,46,False
+437,2023-07-31 11:05:17,Phoenix,38,True
+438,2023-10-03 22:47:50,San Antonio,38,False
+439,2025-02-01 18:04:45,San Jose,68,True
+440,2024-03-11 10:20:48,San Antonio,41,True
+441,2023-11-07 09:05:08,San Jose,52,True
+442,2025-05-04 13:10:59,New York,64,False
+443,2023-11-22 16:15:31,San Diego,69,False
+444,2023-04-18 10:25:19,San Antonio,61,False
+445,2024-04-15 10:25:09,Houston,34,True
+446,2024-08-08 15:14:11,Los Angeles,46,False
+447,2025-04-10 02:39:38,Dallas,62,False
+448,2024-07-12 12:13:51,Dallas,56,True
+449,2024-01-21 14:43:16,Philadelphia,28,True
+450,2024-09-12 18:49:45,Philadelphia,68,False
+451,2023-06-03 04:19:08,Phoenix,32,True
+452,2024-08-30 14:32:19,San Diego,67,True
+453,2023-02-08 03:45:43,San Diego,24,False
+454,2023-05-14 08:53:56,Los Angeles,64,True
+455,2024-06-16 22:27:10,San Diego,68,True
+456,2024-06-25 01:34:34,San Diego,24,False
+457,2024-12-03 20:27:14,Philadelphia,22,False
+458,2023-06-28 18:41:23,New York,39,True
+459,2023-09-13 07:33:52,Houston,51,True
+460,2024-05-29 04:11:19,Dallas,45,False
+461,2024-09-21 05:15:46,Chicago,29,False
+462,2023-11-03 12:47:17,San Diego,55,False
+463,2023-11-30 16:10:45,Houston,35,True
+464,2025-04-14 00:40:23,Chicago,41,False
+465,2023-06-27 00:32:57,Phoenix,60,False
+466,2024-05-01 20:33:07,San Jose,42,False
+467,2024-06-24 11:34:14,Philadelphia,47,True
+468,2024-04-07 01:32:49,San Jose,55,True
+469,2024-05-01 12:24:39,Los Angeles,33,False
+470,2024-08-02 21:51:32,Chicago,50,False
+471,2023-08-03 04:03:55,San Jose,42,False
+472,2025-04-14 18:57:04,Chicago,53,True
+473,2023-08-06 22:38:02,Chicago,38,False
+474,2024-07-11 17:57:01,New York,49,True
+475,2024-08-19 10:28:34,Dallas,50,False
+476,2025-02-02 20:52:10,San Antonio,63,False
+477,2023-05-09 10:11:03,San Jose,19,True
+478,2024-03-02 23:15:34,Houston,52,False
+479,2024-12-11 10:10:37,San Jose,65,False
+480,2023-06-25 20:48:42,San Jose,25,False
+481,2024-07-23 21:35:53,Dallas,70,True
+482,2024-11-16 15:20:19,Dallas,31,False
+483,2024-01-20 12:38:52,Phoenix,20,False
+484,2023-05-16 02:57:41,San Diego,25,True
+485,2024-06-28 16:27:54,San Jose,58,False
+486,2023-08-05 07:03:20,Houston,70,True
+487,2024-06-28 23:20:56,Dallas,35,True
+488,2024-03-30 14:12:44,Phoenix,54,False
+489,2025-03-10 02:46:50,Los Angeles,26,False
+490,2024-03-06 19:22:14,Chicago,62,True
+491,2024-05-15 08:38:08,Houston,66,False
+492,2024-02-22 10:30:05,San Antonio,42,False
+493,2023-05-25 14:49:30,San Antonio,50,False
+494,2024-07-27 07:58:14,San Diego,49,False
+495,2023-05-25 16:34:21,San Diego,58,False
+496,2025-04-10 04:47:17,San Antonio,31,False
+497,2025-02-07 12:18:36,Phoenix,38,False
+498,2023-07-22 20:54:23,San Jose,49,False
+499,2023-03-17 04:49:41,New York,24,False
+500,2023-09-03 10:03:08,San Diego,47,True
+501,2024-10-26 13:30:50,Houston,62,True
+502,2024-04-13 22:21:42,Chicago,35,True
+503,2024-01-24 23:11:20,Los Angeles,41,True
+504,2024-04-19 14:12:36,Houston,45,True
+505,2023-01-02 16:30:01,Houston,48,True
+506,2023-12-18 09:00:23,Dallas,61,False
+507,2024-06-17 17:22:21,Los Angeles,45,True
+508,2023-12-22 15:45:28,San Antonio,23,True
+509,2024-07-24 23:41:34,Phoenix,26,False
+510,2023-07-26 20:03:04,Chicago,22,True
+511,2023-09-12 22:42:30,San Diego,40,True
+512,2023-08-24 03:38:11,San Antonio,57,False
+513,2023-05-15 15:57:50,Los Angeles,26,True
+514,2024-08-19 13:44:50,Philadelphia,45,False
+515,2024-01-20 22:08:44,Phoenix,59,True
+516,2024-03-18 14:37:03,New York,60,False
+517,2025-03-02 12:22:41,Houston,65,False
+518,2023-03-26 18:29:04,Houston,49,False
+519,2025-02-15 01:47:13,San Jose,22,True
+520,2024-05-06 14:57:20,Chicago,42,False
+521,2023-09-26 09:20:38,San Diego,67,True
+522,2023-04-15 21:47:48,New York,34,True
+523,2023-04-04 22:26:32,San Antonio,50,False
+524,2025-02-17 08:27:33,San Antonio,45,False
+525,2025-04-13 12:35:10,Dallas,57,True
+526,2024-04-26 10:09:58,Los Angeles,50,True
+527,2023-08-30 08:52:45,Dallas,38,False
+528,2023-04-13 16:56:56,Phoenix,62,False
+529,2024-01-06 17:02:48,New York,33,True
+530,2023-06-30 04:17:35,San Diego,57,True
+531,2023-09-30 20:33:14,Los Angeles,18,True
+532,2023-09-12 12:07:23,San Diego,40,False
+533,2023-07-17 04:18:57,Phoenix,64,True
+534,2023-02-15 14:28:49,Philadelphia,69,False
+535,2023-04-10 05:19:13,Phoenix,63,True
+536,2025-03-04 11:19:43,Philadelphia,21,False
+537,2023-09-17 05:47:21,Philadelphia,28,False
+538,2023-06-29 03:56:54,Houston,65,True
+539,2023-01-20 02:07:57,Houston,20,False
+540,2023-08-22 03:33:43,Chicago,20,False
+541,2024-01-21 15:55:20,San Antonio,64,False
+542,2023-05-01 23:50:25,San Jose,41,True
+543,2023-03-23 19:45:36,Chicago,32,True
+544,2023-04-18 01:45:49,San Diego,36,False
+545,2025-05-09 04:44:30,San Diego,18,False
+546,2025-05-25 20:14:19,Phoenix,65,True
+547,2025-02-05 09:49:08,Houston,64,True
+548,2024-09-28 23:15:15,New York,32,False
+549,2023-01-15 21:43:14,Philadelphia,18,False
+550,2024-04-22 16:49:39,Los Angeles,31,True
+551,2023-04-04 01:03:00,Chicago,63,False
+552,2023-12-26 13:55:22,Dallas,44,False
+553,2023-05-12 21:23:29,San Jose,24,True
+554,2024-09-04 14:28:54,Los Angeles,55,True
+555,2023-07-23 01:09:29,Houston,36,False
+556,2024-09-02 10:20:14,Philadelphia,38,False
+557,2023-04-27 00:32:57,Houston,26,True
+558,2023-09-13 08:20:36,San Diego,47,False
+559,2025-04-12 12:42:55,Philadelphia,67,True
+560,2024-12-20 18:48:47,Phoenix,25,True
+561,2024-04-17 13:57:23,San Jose,20,True
+562,2024-05-24 05:02:00,Chicago,23,True
+563,2024-09-07 13:03:51,Dallas,21,False
+564,2023-09-28 02:15:32,New York,43,False
+565,2025-05-04 13:59:36,Houston,24,False
+566,2023-08-06 03:51:44,Los Angeles,18,True
+567,2023-12-12 07:30:08,Chicago,30,False
+568,2023-05-11 13:13:00,San Jose,55,False
+569,2023-04-27 11:43:29,New York,22,True
+570,2024-11-19 20:19:04,Chicago,23,False
+571,2024-12-17 03:08:11,New York,28,False
+572,2024-09-05 14:37:06,San Diego,19,False
+573,2023-09-26 10:43:11,Philadelphia,31,True
+574,2024-11-23 20:30:40,Chicago,20,True
+575,2025-02-14 00:01:38,San Antonio,53,False
+576,2024-03-10 14:48:17,San Antonio,26,False
+577,2025-03-27 19:46:08,Houston,58,True
+578,2024-07-11 20:40:11,San Diego,52,False
+579,2025-05-28 17:00:07,Dallas,38,False
+580,2023-02-10 11:41:52,Philadelphia,56,True
+581,2024-03-12 09:55:44,New York,69,False
+582,2023-12-28 14:00:03,Chicago,24,True
+583,2024-02-19 00:50:48,Dallas,70,True
+584,2023-12-07 20:15:24,San Jose,69,False
+585,2023-09-27 20:27:14,Chicago,33,False
+586,2024-07-11 08:24:16,San Jose,19,False
+587,2025-05-25 12:46:22,Chicago,54,True
+588,2025-02-03 15:32:32,Dallas,37,True
+589,2023-05-21 05:02:20,New York,32,True
+590,2025-01-12 12:43:16,New York,39,True
+591,2024-06-13 08:25:04,Chicago,69,False
+592,2023-08-18 11:06:11,San Jose,63,True
+593,2025-03-28 13:41:42,Philadelphia,22,False
+594,2024-09-06 12:52:17,San Jose,24,False
+595,2023-07-31 23:17:12,Chicago,64,False
+596,2025-01-26 20:07:59,Philadelphia,29,False
+597,2023-09-30 09:34:57,San Antonio,37,False
+598,2023-01-03 19:01:50,San Jose,43,True
+599,2024-05-09 07:59:10,San Jose,32,True
+600,2023-08-07 11:33:53,Philadelphia,65,True
+601,2024-05-11 08:31:11,Chicago,58,True
+602,2024-06-05 13:38:50,San Diego,18,False
+603,2023-04-16 07:34:21,Philadelphia,34,True
+604,2023-03-16 19:04:02,San Antonio,46,False
+605,2024-10-05 03:45:11,San Diego,42,False
+606,2023-06-07 13:31:50,San Diego,68,True
+607,2023-04-25 12:05:06,New York,36,True
+608,2023-06-12 16:25:58,Los Angeles,39,True
+609,2023-09-07 22:57:15,Los Angeles,53,True
+610,2025-01-19 21:43:54,New York,45,True
+611,2024-11-05 12:09:49,Chicago,21,True
+612,2023-10-23 03:07:35,San Antonio,62,False
+613,2024-04-06 23:53:59,Houston,24,True
+614,2025-05-03 20:54:29,San Diego,27,True
+615,2024-10-26 06:18:20,Los Angeles,36,False
+616,2023-02-09 23:29:46,Houston,28,False
+617,2025-01-05 15:59:36,Los Angeles,37,False
+618,2024-02-16 16:04:48,Los Angeles,59,False
+619,2024-08-15 13:18:26,Philadelphia,29,False
+620,2024-11-14 02:42:40,San Diego,34,True
+621,2025-05-26 12:38:15,New York,27,True
+622,2024-06-18 01:28:18,Dallas,44,True
+623,2024-08-24 08:21:40,Dallas,44,False
+624,2024-01-02 01:22:16,San Diego,37,True
+625,2023-02-23 22:46:19,Dallas,54,True
+626,2024-11-28 13:24:53,Chicago,28,True
+627,2023-07-16 00:33:18,New York,45,True
+628,2024-11-07 08:38:12,Houston,70,True
+629,2024-02-05 14:42:01,Philadelphia,64,True
+630,2025-05-14 06:45:39,San Antonio,53,False
+631,2025-03-18 07:22:46,San Diego,18,False
+632,2023-08-21 11:04:12,Chicago,54,True
+633,2025-05-24 02:22:15,Los Angeles,68,False
+634,2024-06-18 04:22:19,San Antonio,34,False
+635,2025-01-04 20:27:22,New York,29,False
+636,2024-09-16 01:12:12,New York,43,False
+637,2023-03-18 13:42:02,San Diego,35,False
+638,2024-04-15 18:42:27,Phoenix,35,False
+639,2023-06-02 13:48:34,Houston,26,False
+640,2024-11-19 08:21:39,Philadelphia,35,False
+641,2023-05-19 16:51:18,Houston,46,True
+642,2024-09-24 12:24:40,San Diego,66,False
+643,2025-03-11 10:38:48,Chicago,22,False
+644,2024-09-18 15:17:17,Chicago,67,True
+645,2023-11-08 19:38:11,New York,33,True
+646,2024-07-13 19:45:24,Houston,35,False
+647,2025-02-23 16:28:34,San Antonio,58,True
+648,2024-01-11 20:06:21,Philadelphia,49,False
+649,2025-01-07 05:42:36,San Jose,53,False
+650,2024-02-06 19:32:27,Los Angeles,36,True
+651,2023-09-11 01:37:41,San Jose,67,True
+652,2023-12-16 16:47:06,Houston,35,False
+653,2023-01-14 19:44:27,San Diego,26,True
+654,2023-01-14 03:33:02,Houston,34,False
+655,2024-03-03 18:51:24,San Antonio,42,False
+656,2023-12-05 23:25:23,San Diego,37,False
+657,2023-01-12 09:56:14,Dallas,60,False
+658,2024-03-15 02:57:28,Phoenix,61,True
+659,2024-06-06 09:33:47,Phoenix,58,False
+660,2024-02-10 16:15:44,Phoenix,30,True
+661,2024-01-09 07:06:38,New York,69,False
+662,2023-08-06 08:57:00,New York,59,False
+663,2024-02-08 00:06:44,San Antonio,43,False
+664,2023-10-23 00:33:01,Philadelphia,64,True
+665,2025-01-09 00:41:37,Philadelphia,50,False
+666,2025-05-17 04:59:44,Chicago,36,True
+667,2024-02-06 19:14:23,Dallas,66,True
+668,2024-06-05 09:17:06,Los Angeles,32,False
+669,2024-04-22 00:58:07,San Antonio,68,False
+670,2024-04-01 19:01:13,San Diego,25,False
+671,2023-04-21 15:06:54,San Diego,30,True
+672,2024-08-15 21:39:35,Dallas,37,False
+673,2023-08-23 05:25:41,Chicago,30,False
+674,2024-12-11 19:29:58,Chicago,38,True
+675,2025-01-27 10:19:53,Philadelphia,58,True
+676,2023-04-01 02:54:12,New York,46,False
+677,2023-09-19 22:04:41,San Jose,66,True
+678,2023-05-17 18:25:09,Chicago,57,False
+679,2024-09-18 15:35:56,San Antonio,48,False
+680,2025-04-09 04:51:28,Houston,64,False
+681,2024-05-15 12:58:34,Dallas,30,True
+682,2024-01-22 12:47:54,Houston,62,False
+683,2023-06-09 13:14:24,San Antonio,50,False
+684,2023-03-13 00:30:13,Phoenix,36,False
+685,2025-03-25 04:31:19,Philadelphia,45,True
+686,2025-01-31 11:11:09,Philadelphia,66,True
+687,2024-09-18 15:31:50,New York,32,True
+688,2023-07-23 19:42:21,Houston,64,True
+689,2023-09-20 12:12:28,Los Angeles,41,True
+690,2024-02-02 08:30:41,Dallas,57,True
+691,2023-03-16 12:05:32,Los Angeles,59,True
+692,2023-06-29 20:57:27,San Antonio,46,False
+693,2024-01-28 14:45:59,San Diego,62,True
+694,2023-01-15 10:53:55,Phoenix,44,True
+695,2024-02-24 09:28:39,San Jose,56,True
+696,2023-06-12 23:29:10,Dallas,64,True
+697,2023-06-15 01:47:53,San Diego,30,True
+698,2025-03-23 16:18:01,Houston,40,False
+699,2023-03-03 05:09:04,Dallas,49,True
+700,2025-01-16 16:27:02,Philadelphia,33,True
+701,2023-05-19 06:15:58,Los Angeles,54,False
+702,2023-05-20 22:31:31,Dallas,22,True
+703,2023-12-26 02:16:48,San Diego,36,False
+704,2023-06-05 01:08:45,Chicago,20,False
+705,2024-04-30 18:33:57,San Antonio,65,True
+706,2023-03-13 06:52:09,New York,26,True
+707,2024-11-10 23:10:47,San Jose,35,True
+708,2024-06-16 09:37:45,Chicago,25,False
+709,2024-12-10 04:59:45,Phoenix,42,False
+710,2023-09-17 01:57:42,Los Angeles,26,True
+711,2023-09-05 14:41:28,Los Angeles,44,False
+712,2024-11-11 15:53:36,Chicago,57,False
+713,2023-02-14 18:20:48,Chicago,48,False
+714,2024-09-30 21:47:19,San Diego,20,True
+715,2024-05-03 03:38:23,New York,63,True
+716,2024-06-09 12:45:43,Dallas,51,True
+717,2024-01-22 03:37:19,San Diego,40,False
+718,2025-05-17 08:34:54,San Jose,21,True
+719,2023-09-01 18:40:35,Dallas,48,False
+720,2023-04-27 07:10:42,San Diego,38,True
+721,2024-03-08 02:26:58,New York,50,True
+722,2024-08-11 04:37:57,San Antonio,70,True
+723,2024-11-21 00:33:41,San Jose,46,True
+724,2024-11-25 11:54:27,Philadelphia,25,False
+725,2023-01-28 14:28:52,Los Angeles,43,False
+726,2025-05-02 23:53:12,New York,70,True
+727,2024-04-18 04:14:05,Dallas,53,True
+728,2024-12-09 16:39:50,Philadelphia,41,True
+729,2024-12-06 23:29:46,Philadelphia,53,False
+730,2024-07-18 08:36:08,San Diego,25,True
+731,2023-12-11 11:19:53,New York,39,False
+732,2024-03-29 13:56:10,Dallas,51,False
+733,2023-03-13 02:43:53,Chicago,49,True
+734,2024-09-27 16:28:58,Los Angeles,34,True
+735,2024-09-02 08:14:34,Houston,47,True
+736,2023-06-17 09:47:53,San Antonio,20,True
+737,2024-11-30 20:01:43,San Diego,60,True
+738,2023-01-07 17:43:06,Dallas,65,True
+739,2024-11-03 08:20:25,San Jose,48,True
+740,2023-09-27 18:09:04,Chicago,24,False
+741,2024-05-14 23:12:18,Dallas,42,False
+742,2024-01-21 15:00:46,Phoenix,43,False
+743,2024-12-04 11:18:41,Chicago,26,False
+744,2025-03-06 19:43:40,Phoenix,62,False
+745,2025-05-09 23:00:59,Houston,30,True
+746,2024-03-27 09:35:19,Philadelphia,61,True
+747,2023-10-04 05:20:16,Dallas,52,False
+748,2024-07-01 04:22:37,Dallas,48,False
+749,2025-04-09 09:20:21,Phoenix,45,True
+750,2023-02-09 06:12:49,San Antonio,27,True
+751,2023-11-07 12:54:08,Phoenix,66,True
+752,2024-01-25 05:35:29,Chicago,21,False
+753,2025-04-20 16:21:28,New York,40,False
+754,2025-05-22 20:35:25,Houston,65,False
+755,2024-03-22 19:56:46,New York,42,False
+756,2024-04-30 16:35:06,Dallas,21,True
+757,2023-11-12 11:38:25,San Jose,67,False
+758,2024-07-25 06:22:57,San Jose,52,True
+759,2023-10-28 14:07:03,Phoenix,46,True
+760,2023-04-26 16:24:19,Chicago,29,True
+761,2024-10-27 15:55:45,Phoenix,53,False
+762,2024-02-01 03:41:28,New York,39,False
+763,2023-08-29 11:34:29,New York,27,False
+764,2024-04-12 19:51:55,San Diego,68,False
+765,2024-05-08 18:38:33,Dallas,32,True
+766,2025-02-23 16:59:50,Chicago,44,False
+767,2023-12-10 14:51:43,Houston,60,False
+768,2024-04-01 01:14:43,Houston,66,False
+769,2023-01-14 16:13:32,Los Angeles,60,False
+770,2024-01-14 18:32:07,New York,61,False
+771,2023-06-26 02:53:24,San Antonio,34,False
+772,2025-03-13 22:13:44,Philadelphia,50,False
+773,2024-04-05 11:51:33,Houston,38,True
+774,2023-09-18 00:55:50,Dallas,52,True
+775,2023-11-24 10:30:10,Houston,61,False
+776,2023-11-16 08:33:42,Dallas,62,False
+777,2023-04-23 00:50:48,Chicago,19,False
+778,2023-02-28 20:30:15,Los Angeles,22,True
+779,2024-01-27 07:48:39,Dallas,22,True
+780,2024-09-25 05:39:05,San Antonio,46,False
+781,2023-01-27 05:44:27,San Antonio,61,True
+782,2023-04-09 05:40:05,San Jose,20,True
+783,2025-02-20 03:07:13,Los Angeles,36,False
+784,2024-03-13 07:43:51,San Diego,42,False
+785,2023-02-17 21:01:16,San Diego,28,True
+786,2024-08-30 09:15:33,Dallas,36,True
+787,2024-08-02 15:18:49,New York,53,True
+788,2023-01-08 19:31:33,San Jose,56,False
+789,2023-05-13 05:45:33,Phoenix,31,False
+790,2025-03-07 05:20:58,Chicago,28,True
+791,2024-01-28 14:53:47,Houston,25,True
+792,2023-03-26 11:44:34,Dallas,47,True
+793,2023-04-15 15:27:56,Phoenix,24,True
+794,2025-01-26 19:46:29,Philadelphia,40,True
+795,2023-12-31 08:01:06,Los Angeles,36,True
+796,2024-05-08 15:55:06,San Diego,46,False
+797,2024-04-19 20:24:29,San Jose,27,False
+798,2024-10-27 08:27:25,Chicago,18,False
+799,2023-12-11 03:04:36,San Antonio,35,False
+800,2024-05-30 01:33:45,San Diego,47,False
+801,2024-04-19 12:48:50,San Diego,53,True
+802,2023-05-08 08:12:02,Phoenix,70,True
+803,2023-11-02 03:30:47,Phoenix,64,True
+804,2023-01-29 22:35:15,Dallas,58,True
+805,2024-09-21 08:30:27,San Jose,31,True
+806,2025-04-24 06:00:17,Dallas,48,True
+807,2023-12-13 21:28:30,San Jose,64,False
+808,2025-02-17 11:13:33,Dallas,23,False
+809,2023-01-17 10:53:11,Houston,69,True
+810,2023-08-07 01:23:55,San Diego,28,True
+811,2025-05-28 23:01:12,Chicago,65,False
+812,2023-03-04 18:57:37,Houston,66,False
+813,2024-02-15 15:56:51,Philadelphia,32,True
+814,2025-03-15 12:09:38,Philadelphia,42,False
+815,2023-03-14 03:18:50,New York,59,False
+816,2025-03-20 22:11:26,Phoenix,65,False
+817,2023-09-28 01:35:27,San Antonio,59,False
+818,2023-05-01 21:59:28,Dallas,34,False
+819,2023-12-13 06:17:11,Dallas,43,False
+820,2024-06-19 23:44:14,San Diego,68,False
+821,2023-01-11 05:58:46,Dallas,26,False
+822,2023-04-30 18:03:26,Dallas,59,False
+823,2023-10-18 08:20:55,Chicago,41,True
+824,2024-10-06 01:55:06,Philadelphia,64,True
+825,2025-01-13 19:30:13,San Diego,31,True
+826,2024-09-30 07:25:58,New York,33,True
+827,2023-09-08 07:19:47,Chicago,58,True
+828,2023-08-17 03:31:40,New York,28,False
+829,2025-03-13 13:45:39,San Antonio,56,True
+830,2024-03-16 07:57:15,Los Angeles,31,False
+831,2025-01-02 07:34:02,San Diego,28,True
+832,2023-08-10 16:41:38,San Jose,70,True
+833,2025-03-04 12:11:14,Phoenix,28,False
+834,2023-04-17 22:38:57,Houston,42,False
+835,2023-01-26 17:29:58,Houston,51,False
+836,2023-05-30 14:16:16,Chicago,48,True
+837,2025-04-05 13:08:40,Dallas,66,True
+838,2023-07-22 11:00:40,San Jose,52,True
+839,2024-11-01 07:22:03,Dallas,44,False
+840,2025-04-03 00:59:29,San Antonio,32,False
+841,2024-08-15 05:31:36,Philadelphia,55,True
+842,2024-01-31 09:07:11,San Diego,67,True
+843,2023-05-11 04:56:45,Phoenix,56,False
+844,2023-01-09 11:54:57,New York,54,True
+845,2024-08-05 14:07:38,Houston,62,False
+846,2023-06-15 13:42:37,Chicago,45,False
+847,2025-04-12 19:26:20,San Antonio,54,False
+848,2024-09-09 10:09:52,Houston,44,False
+849,2025-05-18 12:31:43,Dallas,48,False
+850,2024-06-18 22:32:00,San Antonio,65,True
+851,2023-07-04 23:50:20,Houston,46,True
+852,2025-02-28 16:25:15,San Antonio,68,False
+853,2023-03-22 20:40:08,Chicago,42,True
+854,2023-08-14 18:14:12,San Diego,56,False
+855,2024-02-13 16:46:50,Houston,41,True
+856,2024-08-20 00:42:43,San Antonio,57,False
+857,2023-03-31 06:22:37,Chicago,58,False
+858,2023-11-10 08:11:27,Dallas,36,True
+859,2025-03-04 02:36:12,Dallas,62,True
+860,2023-02-26 00:27:23,Philadelphia,33,True
+861,2023-05-15 21:44:04,Phoenix,67,False
+862,2024-09-05 20:00:11,San Antonio,55,True
+863,2023-04-17 14:14:00,Los Angeles,53,False
+864,2025-05-18 13:16:32,San Jose,40,False
+865,2024-03-05 12:57:35,Houston,56,True
+866,2024-09-19 12:35:19,San Jose,18,False
+867,2025-02-25 09:55:27,Los Angeles,53,True
+868,2024-06-12 02:50:49,Los Angeles,69,False
+869,2024-01-24 13:57:02,San Diego,42,False
+870,2024-06-11 15:28:15,San Diego,61,False
+871,2023-02-12 11:42:28,San Diego,25,False
+872,2023-12-09 08:26:54,Houston,69,False
+873,2024-07-02 12:22:58,Dallas,52,True
+874,2024-02-14 02:23:17,Houston,36,True
+875,2024-06-15 06:25:07,Los Angeles,53,True
+876,2024-07-03 04:50:57,Houston,54,False
+877,2023-10-23 09:57:29,San Diego,65,True
+878,2024-01-12 00:31:15,Phoenix,31,True
+879,2024-01-23 21:19:13,San Jose,40,True
+880,2023-07-06 05:23:38,Los Angeles,61,False
+881,2025-04-21 03:36:43,New York,48,False
+882,2025-02-03 19:46:46,San Jose,35,False
+883,2025-03-05 00:26:35,Phoenix,43,True
+884,2023-07-19 05:21:20,New York,51,False
+885,2025-04-20 01:17:25,New York,50,False
+886,2023-09-29 13:01:47,San Diego,25,False
+887,2023-01-14 01:52:06,New York,61,True
+888,2023-06-06 12:09:04,Philadelphia,41,False
+889,2024-02-13 07:43:20,Houston,35,False
+890,2024-06-16 23:33:47,Philadelphia,29,False
+891,2024-10-13 00:55:02,Philadelphia,41,False
+892,2023-10-07 10:45:23,San Jose,26,True
+893,2024-02-24 08:25:55,Houston,53,False
+894,2023-11-01 13:45:59,Chicago,69,True
+895,2023-01-16 03:13:08,Chicago,44,False
+896,2025-03-14 03:25:01,Dallas,64,False
+897,2024-04-11 02:05:06,Phoenix,53,True
+898,2023-09-11 17:49:36,New York,31,False
+899,2023-05-30 14:23:40,San Diego,65,False
+900,2024-07-13 17:12:10,Dallas,53,False
+901,2024-10-01 15:33:33,Los Angeles,40,True
+902,2025-04-16 10:25:59,Chicago,67,False
+903,2025-03-03 22:45:04,San Diego,67,False
+904,2024-08-14 23:21:23,San Jose,36,False
+905,2023-08-14 00:20:14,Chicago,58,False
+906,2024-09-20 19:01:14,Los Angeles,23,True
+907,2024-05-01 23:27:30,Philadelphia,59,False
+908,2024-09-06 07:38:35,Phoenix,46,False
+909,2025-03-20 05:53:24,San Diego,44,True
+910,2023-02-05 21:16:16,Chicago,64,True
+911,2023-05-05 09:01:47,Houston,28,False
+912,2023-04-10 02:21:10,San Diego,53,True
+913,2024-09-08 17:41:58,Dallas,66,True
+914,2023-08-30 05:02:52,Los Angeles,59,False
+915,2024-01-20 07:36:38,Phoenix,46,True
+916,2023-09-23 00:43:36,New York,20,False
+917,2024-05-20 04:23:01,San Diego,47,False
+918,2023-07-29 21:26:55,Dallas,29,False
+919,2025-05-26 02:51:56,San Antonio,51,False
+920,2025-01-18 05:16:34,Dallas,32,True
+921,2024-07-22 05:23:26,San Antonio,34,True
+922,2023-01-01 03:26:34,Dallas,70,True
+923,2024-12-29 20:58:03,Dallas,18,False
+924,2025-01-11 02:20:58,Phoenix,18,False
+925,2023-12-26 04:20:04,New York,53,False
+926,2025-05-20 18:58:52,San Antonio,43,True
+927,2024-08-28 09:56:11,San Antonio,32,False
+928,2024-01-08 03:30:42,Dallas,66,False
+929,2025-04-06 08:19:10,Phoenix,44,True
+930,2023-10-11 08:37:57,Chicago,36,True
+931,2024-12-04 08:23:09,Phoenix,62,False
+932,2023-01-31 03:06:46,Chicago,21,True
+933,2023-06-08 21:01:55,Phoenix,35,True
+934,2023-01-13 17:52:14,Houston,23,True
+935,2023-12-04 09:21:31,Philadelphia,44,False
+936,2025-02-13 05:32:25,Philadelphia,47,True
+937,2023-08-15 22:32:56,New York,35,False
+938,2024-12-31 08:20:32,Chicago,30,False
+939,2023-01-20 14:20:22,Los Angeles,67,True
+940,2024-11-19 02:46:51,Houston,65,True
+941,2023-05-26 23:05:38,Dallas,60,True
+942,2024-04-29 20:16:49,Philadelphia,28,True
+943,2025-05-03 17:49:31,Dallas,25,False
+944,2024-04-09 04:33:33,Houston,41,True
+945,2023-12-05 07:44:03,Los Angeles,33,False
+946,2023-09-17 23:38:46,Phoenix,55,True
+947,2024-01-13 15:01:38,New York,20,False
+948,2023-08-29 18:31:06,Philadelphia,67,True
+949,2025-02-15 14:20:20,Los Angeles,61,False
+950,2023-04-04 06:54:48,New York,40,True
+951,2023-06-16 19:51:04,Chicago,49,True
+952,2025-05-17 08:48:47,Philadelphia,69,False
+953,2023-02-03 04:05:28,San Antonio,40,True
+954,2023-03-03 08:14:22,San Diego,63,False
+955,2025-04-23 02:35:34,San Diego,30,True
+956,2024-05-17 19:41:51,San Diego,35,True
+957,2023-08-29 19:46:07,San Diego,36,False
+958,2024-12-06 09:17:29,New York,67,False
+959,2023-01-30 01:55:36,San Jose,41,True
+960,2023-04-09 09:33:06,Dallas,70,False
+961,2025-02-11 21:58:37,Dallas,27,False
+962,2024-05-15 05:55:37,Los Angeles,24,True
+963,2023-07-21 14:20:07,Chicago,20,True
+964,2023-10-25 15:59:10,Los Angeles,20,False
+965,2025-03-27 20:02:28,San Jose,62,False
+966,2023-12-09 21:08:30,San Jose,63,True
+967,2023-11-21 06:19:12,San Diego,23,False
+968,2023-04-05 07:04:01,Philadelphia,53,False
+969,2023-04-01 13:34:56,San Jose,35,True
+970,2024-04-17 02:22:58,Los Angeles,31,True
+971,2023-12-25 20:58:31,Dallas,42,True
+972,2024-01-22 10:33:28,San Jose,58,True
+973,2025-05-17 01:01:38,San Antonio,65,True
+974,2024-07-10 01:50:29,San Diego,62,False
+975,2023-09-17 03:06:07,Chicago,53,False
+976,2023-09-03 17:14:44,Dallas,56,False
+977,2024-05-04 13:49:47,Dallas,38,False
+978,2024-10-30 21:29:12,Philadelphia,56,True
+979,2023-11-29 07:49:08,San Antonio,67,False
+980,2024-12-03 18:49:26,San Diego,43,True
+981,2024-03-17 22:15:50,San Jose,19,True
+982,2024-04-13 21:28:21,New York,37,True
+983,2024-05-04 04:29:50,New York,67,False
+984,2025-03-05 05:34:57,Dallas,54,True
+985,2024-12-16 03:49:49,Philadelphia,27,True
+986,2024-01-24 03:20:26,Houston,34,False
+987,2024-09-13 01:33:32,San Jose,31,True
+988,2025-01-19 14:08:26,Chicago,49,True
+989,2024-04-11 15:28:20,New York,64,False
+990,2023-03-28 20:56:58,Philadelphia,40,False
+991,2023-07-07 06:04:35,Houston,65,True
+992,2024-08-17 04:08:51,New York,37,True
+993,2025-05-27 13:28:45,Chicago,38,True
+994,2024-09-02 07:43:43,San Diego,66,True
+995,2024-03-26 03:53:39,San Antonio,27,True
+996,2025-01-09 05:08:50,San Jose,65,True
+997,2024-02-12 20:52:15,Los Angeles,43,False
+998,2023-07-22 12:44:19,Chicago,48,True
+999,2023-11-01 15:06:42,Dallas,57,True
+1000,2024-02-18 14:47:01,San Antonio,38,True
